@@ -43,7 +43,10 @@
     "content": "",
     "website": "nonlinear-dynamics-chaos"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
   "site_uid": "464baf39-cad8-4914-a452-4a20489b4746",
   "site_short_id": "12.006-fall-2022"
 }
