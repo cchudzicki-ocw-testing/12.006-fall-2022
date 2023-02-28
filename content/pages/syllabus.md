@@ -12,9 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-[*18.100A Real Analysis*](https://ocw.mit.edu/courses/18-100a-introduction-to-analysis-fall-2012/)
-
-or *18.100P Real Analysis*
+([*8.02 Physics II: Electricity And Magnetism*](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) or *8.021 Physics II: Electricity And Magnetism* or [*8.022 Physics II: Electricity And Magnetism*](https://ocw.mit.edu/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/)) and ([*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) or *18.032 Differential Equations*)
 
 ## Course Description
 
