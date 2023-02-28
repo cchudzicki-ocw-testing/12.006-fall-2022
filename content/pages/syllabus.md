@@ -32,8 +32,8 @@ Strogatz, S. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biolog
 
 Among the many books on nonlinear dynamics and chaos, you may ﬁnd it interesting to consult, either during or after the course, the following:
 
-- P. Berg´e, Y. Pomeau, and C. Vidal, Order within Chaos: Towards a Deterministic Approach to Turbulence (Wiley, 1984). An undergraduate-level physical introduction to the subject. 
-- M. Cross and H. Greenside, Pattern Formation and Dynamics in Nonequilibrium Systems,(Cambridge, 2009).
+- Berge, P., Y. Pomeau, and C. Vidal, *Order within Chaos: Towards a Deterministic Approach to Turbulence.* Wiley-VCH, 1987. ISBN: 9780471849674. (An undergraduate-level physical introduction to the subject.) 
+- Cross, M. and H. Greenside, *Pattern Formation and Dynamics in Nonequilibrium Systems*. Cambridge University Press, 2009. ISBN: 9780521770507.
 - P. Cvitanovi´c, ed., Universality in Chaos (Adam Hilger Ltd., Bristol, 1984). Contains reprints of a number of original research papers in the ﬁeld. 
 - P. Cvitanovi´c, R. Artuso, R. Mainieri, G. Tanner and G. Vattay, Chaos: Classical and Quan-tum, ChaosBook.org (Niels Bohr Institute, Copenhagen 2020) 
 - J. Gleick, Chaos (Viking, New York, 1987). An excellent popular introduction. 
