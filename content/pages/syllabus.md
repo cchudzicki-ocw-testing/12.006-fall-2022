@@ -24,7 +24,7 @@ The course concentrates on simple models of dynamical systems, mathematical theo
 
 To promote the notion of numerical experiments, we assign several laboratory-like problem sets that involve numerical simulation of dynamical systems. Python and Matlab code will often be provided, but students are free to use whatever tools they desire.
 
-## Textbooks
+## Textbook
 
 Strogatz, S. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering.* CRC Press, 2020. ISBN: 9780738204536.
 
