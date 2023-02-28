@@ -40,7 +40,7 @@ Pendulum and Stability in Two Dimensional Systems
 {{< tdclose >}}{{< tdopen >}}
 Pendulum and Stability in Two Dimensional Systems (cont) 
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -76,7 +76,7 @@ Bifurcations in Two Dimensions
 {{< tdclose >}}{{< tdopen >}}
 Bifurcations in Two Dimensions (cont)
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 3 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -88,7 +88,7 @@ Spectral Analysis for Dynamical Systems
 {{< tdclose >}}{{< tdopen >}}
 Spectral Analysis for Dynamical Systems (cont)
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 4 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
@@ -106,7 +106,7 @@ Poincare Sections
 {{< tdclose >}}{{< tdopen >}}
 Poincare Sections (cont)
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 5 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
@@ -118,7 +118,7 @@ Fluid Dynamics and Rayleigh-Benard Convection
 {{< tdclose >}}{{< tdopen >}}
 Fluid Dynamics and Rayleigh-Benard Convection (cont)
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 6 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
@@ -130,7 +130,7 @@ Introduction to Strange Attractors
 {{< tdclose >}}{{< tdopen >}}
 Lorenz Equations
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 7 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -142,7 +142,7 @@ Lorenz Equations (cont)
 {{< tdclose >}}{{< tdopen >}}
 Henon Attractor
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 8 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
@@ -154,7 +154,7 @@ Fractal Dimension
 {{< tdclose >}}{{< tdopen >}}
 Lyapunov Exponents
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 9 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
@@ -172,7 +172,7 @@ Period Doubling Route to Chaos (cont)
 {{< tdclose >}}{{< tdopen >}}
 Period Doubling Route to Chaos (cont)
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 10 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 28
 {{< tdclose >}}{{< tdopen >}}
