@@ -28,6 +28,19 @@ To promote the notion of numerical experiments, we assign several laboratory-lik
 
 Lebl, Jiri. *Basic Analysis I: Introduction to Real Analysis, Volume 1*. CreateSpace Independent Publishing Platform, 2018. ISBN: 9781718862401. This book is available as [a free PDF download](https://www.jirka.org/ra/). You can purchase a paper copy by following a link at the same site.
 
+## References
+
+Among the many books on nonlinear dynamics and chaos, you may ﬁnd it interesting to consult, either during or after the course, the following:
+
+- P. Berg´e, Y. Pomeau, and C. Vidal, Order within Chaos: Towards a Deterministic Approach to Turbulence (Wiley, 1984). An undergraduate-level physical introduction to the subject. 
+- M. Cross and H. Greenside, Pattern Formation and Dynamics in Nonequilibrium Systems,(Cambridge, 2009).
+- P. Cvitanovi´c, ed., Universality in Chaos (Adam Hilger Ltd., Bristol, 1984). Contains reprints of a number of original research papers in the ﬁeld. 
+- P. Cvitanovi´c, R. Artuso, R. Mainieri, G. Tanner and G. Vattay, Chaos: Classical and Quan-tum, ChaosBook.org (Niels Bohr Institute, Copenhagen 2020) 
+- J. Gleick, Chaos (Viking, New York, 1987). An excellent popular introduction. 
+- J. Guckenheimer and P. Holmes, Nonlinear oscillations, dynamical systems, and bifurcations of vector ﬁelds (Springer-Verlag, 2013). A graduate-level applied mathematics text. 
+- H. G. Schuster, Deterministic chaos, 2nd ed. (Wiley-VCH, 2005). An advanced book of interest to physicists.
+- D. Turcotte, Fractals and Chaos in Geology and Geophysics, 2nd edition (Cambridge Uni-versity Press, New York, 1997).
+
 ## Requirements
 
 There are no exams.
