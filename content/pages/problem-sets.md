@@ -10,43 +10,43 @@ PROBLEM SETS
 {{< thclose >}}{{< thopen >}}
 SUPPORTING FILES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Problem Set 1 (PDF)
+{{% resource_link "5937355a-6ed0-4b9c-924b-2f91679fe482" "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Problem Set 2 (PDF)
+{{% resource_link "88fe72e7-c52f-486b-909a-2b476e2eb242" "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Problem Set 3 (PDF)
+{{% resource_link "93c14d06-c303-4aba-a99e-1dff13b39e28" "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Problem Set 4 (PDF)
+{{% resource_link "4e72e03b-9fb4-4ca6-85f0-255fafe37b47" "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Problem Set 5 (PDF)
+{{% resource_link "9f64040a-bdd1-4a27-8424-312d9e85c43a" "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Problem Set 6 (PDF)
+{{% resource_link "5b238d14-d74e-4bbb-b03b-9d62387e0852" "Problem Set 6 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Problem Set 7 (PDF)
+{{% resource_link "b8215b31-4667-47d3-b12b-29f572610606" "Problem Set 7 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Problem Set 8 (PDF)
+{{% resource_link "3223633b-28de-4d54-b512-26eb5cd102b1" "Problem Set 8 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Problem Set 9 (PDF)
+{{% resource_link "834f182c-2253-495b-a39a-103982d4bfdb" "Problem Set 9 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Problem Set 10 (PDF)
+{{% resource_link "566afa86-c301-48ff-8e7f-c1b9ae81855a" "Problem Set 10 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
