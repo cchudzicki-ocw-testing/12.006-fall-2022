@@ -1,13 +1,14 @@
 ---
 content_type: page
-description: Syllabus
+description: This section includes course meeting times, prerequisites, course description,
+  textbook, and grading.
 draft: false
 title: Syllabus
 uid: fb306b9c-6fbf-4991-b4c4-88f72c05edb7
 ---
 ## Course Meeting Times
 
-Lectures: 2 sessions / week, 1.5 hour / session
+Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
