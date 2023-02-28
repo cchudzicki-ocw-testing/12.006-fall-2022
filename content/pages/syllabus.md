@@ -16,16 +16,20 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Course Description
 
-This course provides a basic introduction to metric spaces. It covers metrics, open and closed sets, continuous functions (in the topological sense), function spaces, completeness, and compactness.
+This course provides an introduction to nonlinear dynamics and chaos in dissipative systems. The content is structured to be of general interest to undergraduates in science and engineering. The course concentrates on simple models of dynamical systems, mathematical theory underlying their behavior, their relevance to natural phenomena, and methods of data analysis and interpretation. The emphasis is on nonlinear phenomena that may be described by a few variables that evolve with time.
 
 ## Textbooks
 
 Lebl, Jiri. *Basic Analysis I: Introduction to Real Analysis, Volume 1*. CreateSpace Independent Publishing Platform, 2018. ISBN: 9781718862401. This book is available as [a free PDF download](https://www.jirka.org/ra/). You can purchase a paper copy by following a link at the same site.
 
-Munkres, James R. *Topology*. Pearson, 2015. ISBN: 9789332549531.
+## Problem Sets, Exams, and Project
 
-Thomson, Brian S., Judith B. Bruckner, and Andrew M. Bruckner. *Elementary Real Analysis*. CreateSpace Independent Publishing Platform, 2008. ISBN: 9781434841612. This book is available as [a free PDF download (PDF - 5.96 MB)](http://classicalrealanalysis.info/documents/TBB-AllChapters-Landscape.pdf). 
+There are ten problem sets. Some are analytic and some require numerical simulation. We usually provide Matlab and Python codes, but modifications are often necessary. Only rudimentary coding skills are required, and they can be learned in this course.
+
+There are no exams.
+
+There is a final project. You can choose either a review of a topic in the literature, your own attempt to apply or extend what you've learned to a problem that interests you, or a combination of both. A written report will be due in the last class at which time students will also give brief oral presentations.
 
 ## Grading
 
-This class will be Pass/No Record with grading based on assignments and participation. There will be three problem sets, and there will not be any exams.
+Problems sets count for about 80% of the grade and the final project about 20%.
