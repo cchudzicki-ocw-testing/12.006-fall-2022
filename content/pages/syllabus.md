@@ -26,7 +26,7 @@ To promote the notion of numerical experiments, we assign several laboratory-lik
 
 ## Textbooks
 
-Strogatz, S. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering.* CRC Press, 2018. ISBN: 
+Strogatz, S. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering.* CRC Press, 2020. ISBN: 9780738204536.
 
 ## References
 
