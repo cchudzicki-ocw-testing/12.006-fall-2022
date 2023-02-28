@@ -124,13 +124,13 @@ Problem Set 6 due
 {{< tdclose >}}{{< tdopen >}}
 Introduction to Strange Attractors
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 7 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
 Lorenz Equations
 {{< tdclose >}}{{< tdopen >}}
-Problem Set 7 due
+Final Project Topic and Brief Summary due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -179,4 +179,10 @@ Problem Set 10 due
 Intermittency (and Quasiperiodicity)
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+Final Project Oral Presentation
+{{< tdclose >}}{{< tdopen >}}
+Final Project Written Report due
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
