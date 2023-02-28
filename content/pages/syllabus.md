@@ -32,14 +32,14 @@ Strogatz, S. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biolog
 
 Among the many books on nonlinear dynamics and chaos, you may ﬁnd it interesting to consult, either during or after the course, the following:
 
-- Berge, P., Y. Pomeau, and C. Vidal, *Order within Chaos: Towards a Deterministic Approach to Turbulence.* Wiley-VCH, 1987. ISBN: 9780471849674. (An undergraduate-level physical introduction to the subject.) 
-- Cross, M. and H. Greenside, *Pattern Formation and Dynamics in Nonequilibrium Systems*. Cambridge University Press, 2009. ISBN: 9780521770507.
-- Cvitanovic, P. ed., *Universality in Chaos.* Adam Hilger, Ltd., 1989. ISBN: 9780852747650. (Contains reprints of a number of original research papers in the ﬁeld.) 
-- Cvitanovic, P., R. Artuso, R. Mainieri, G. Tanner and G. Vattay, Chaos: Classical and Quantum, ChaosBook.org (Niels Bohr Institute, Copenhagen 2020) 
-- Gleick, J. *Chaos* (Viking, New York, 1987). An excellent popular introduction. 
-- J. Guckenheimer and P. Holmes, Nonlinear oscillations, dynamical systems, and bifurcations of vector ﬁelds (Springer-Verlag, 2013). A graduate-level applied mathematics text. 
-- H. G. Schuster, Deterministic chaos, 2nd ed. (Wiley-VCH, 2005). An advanced book of interest to physicists.
-- D. Turcotte, Fractals and Chaos in Geology and Geophysics, 2nd edition (Cambridge Uni-versity Press, New York, 1997).
+- Berge, P., Y. Pomeau, and C. Vidal. *Order within Chaos: Towards a Deterministic Approach to Turbulence.* Wiley-VCH, 1987. ISBN: 9780471849674. (An undergraduate-level physical introduction to the subject.) 
+- Cross, M. and H. Greenside. *Pattern Formation and Dynamics in Nonequilibrium Systems*. Cambridge University Press, 2009. ISBN: 9780521770507.
+- Cvitanovic, P. *Universality in Chaos.* Adam Hilger, Ltd., 1989. ISBN: 9780852747650. (Contains reprints of a number of original research papers in the ﬁeld.) 
+- Cvitanovic, P., R. Artuso, R. Mainieri, G. Tanner, and G. Vattay. [*Chaos: Classical and Quantum* (PDF - 8.4 MB)](https://chaosbook.org/chapters/ChaosBook.pdf) 
+- Gleick, J. *Chaos*. Viking Books, 1987. ISBN: 9780749386061. (An excellent popular introduction.) 
+- Guckenheimer, J. and P. Holmes, *Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields.* Springer, 1983. ISBN: 9780387908199. (A graduate-level applied mathematics textbook.)
+- Schuster, H. and W. Just. *Deterministic Chaos: An Introduction*, 4th edition. Wiley-VCH, 2005. ISBN: 9783527404155. (An advanced book of interest to physicists.)
+- Turcotte, D. *Fractals and Chaos in Geology and Geophysics*, 2nd edition. Cambridge University Press, New York, 1997. ISBN: 9780521567336.
 
 ## Requirements
 
