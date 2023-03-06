@@ -26,7 +26,7 @@ Flows and Bifurcations in One Dimension
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-Flows and Bifurcations in One Dimension (cont)
+Flows and Bifurcations in One Dimension (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -38,7 +38,7 @@ Pendulum and Stability in Two Dimensional Systems
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Pendulum and Stability in Two Dimensional Systems (cont) 
+Pendulum and Stability in Two Dimensional Systems (cont.) 
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -50,7 +50,7 @@ Dissipation and Contraction of Volumes in Phase Space
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Dissipation and Contraction of Volumes in Phase Space (cont)
+Dissipation and Contraction of Volumes in Phase Space (cont.)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -62,7 +62,7 @@ Forced Oscillators and Limit Cycles
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Forced Oscillators and Limit Cycles (cont)
+Forced Oscillators and Limit Cycles (cont.)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -74,7 +74,7 @@ Bifurcations in Two Dimensions
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Bifurcations in Two Dimensions (cont)
+Bifurcations in Two Dimensions (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 3 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -86,13 +86,13 @@ Spectral Analysis for Dynamical Systems
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-Spectral Analysis for Dynamical Systems (cont)
+Spectral Analysis for Dynamical Systems (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 4 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
-Spectral Analysis for Dynamical Systems (cont)
+Spectral Analysis for Dynamical Systems (cont.)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -104,7 +104,7 @@ Poincare Sections
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Poincare Sections (cont)
+Poincare Sections (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 5 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -116,7 +116,7 @@ Fluid Dynamics and Rayleigh-Benard Convection
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
-Fluid Dynamics and Rayleigh-Benard Convection (cont)
+Fluid Dynamics and Rayleigh-Benard Convection (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 6 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -134,7 +134,7 @@ Final Project Topic and Brief Summary due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
-Lorenz Equations (cont)
+Lorenz Equations (cont.)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -164,13 +164,13 @@ Period Doubling Route to Chaos
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-Period Doubling Route to Chaos (cont)
+Period Doubling Route to Chaos (cont.)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
 {{< tdclose >}}{{< tdopen >}}
-Period Doubling Route to Chaos (cont)
+Period Doubling Route to Chaos (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 10 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
