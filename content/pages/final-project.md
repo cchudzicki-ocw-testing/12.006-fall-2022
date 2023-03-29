@@ -1,10 +1,12 @@
 ---
 content_type: page
-description: This page includes final project guidelines.
+description: This page includes final project guidelines and topics.
 draft: false
 title: Final Project
 uid: 94d2bce4-3e02-4beb-b6df-7ed84ebc196c
 ---
+### Guidelines
+
 The purpose of the final project is to give students an opportunity to focus on a particular subject in nonlinear dynamics that they find interesting. For example, the project could be an analysis of an interesting paper or topic in the current scientific literature. It could also be an attempt to apply what you have learned in the class to a particular problem that interests you. In either case you may find it useful to perform your own theoretical or numerical analyses—indeed we encourage it! Analysis of experimental or observational data—or your own experiments or observations!—is also possible. The format is largely unconstrained, but we require the following:
 
 - Submission of your topic and a brief summary (i.e., a short paragraph) by Lecture 20. 
@@ -19,4 +21,31 @@ If you need ideas, a good way to start could be to search Google Scholar (schola
 
 Finally, we’d be happy to talk to you about this and provide suggestions related to your interests—before you choose your topic or after.
 
-Here are the final project topics:
+### Topics
+
+- Construction of orbits with prescribed trajectories
+- On the utility of non-Newtonian differential equations
+- The dynamics of the inverted driven pendulum
+- Analysis of current models for whale bubble nets and waveguiding behavior
+- A look into the nonlinear dynamics governing the Belousov Zhabotinsky reaction
+- Exploring the nonlinear dynamics of ship motion
+- Stability estimation through delayed linear representations of partially-observed nonlinear dynamics in neural systems
+- Evolutionary game theory
+- Understanding rate equation dynamics
+- Applications of nonlinear dynamics and chaos to finance
+- Understanding treeline as a nonlinear system
+- Nonlinear dynamics of natural hazards: forest fires
+- Sunspot predictions for solar cycle 25 and non-linear dynamics
+- Lyapunov exponents and breast cancer detection
+- Double pendulum, Kapitza’s pendulum, and double Kapitza’s pendulum
+- An analysis of population dynamics within continuous viral particle production
+- Lotka-Volterra predator-prey models
+- The three-body problem and its associated nonlinearities
+- Analysis of nonlinear dynamics in electric systems
+- Chaos and politics
+- Thermistors as a model for memristor nonlinear dynamics
+- Pseudorandomness and chaos
+- Nonlinear behavior of transverse vibration in axially loaded beams
+- Exploring ML techniques on prediction of a chaotic system
+- Towards a machine learning inspired method for computing periodic orbits
+- Applying the SINDy algorithm to discover dynamical systems models in geophysical dynamics
