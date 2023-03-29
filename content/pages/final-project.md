@@ -2,7 +2,7 @@
 content_type: page
 description: This page includes final project guidelines.
 draft: false
-title: Guidelines for Final Project
+title: Final Project
 uid: 94d2bce4-3e02-4beb-b6df-7ed84ebc196c
 ---
 The purpose of the final project is to give students an opportunity to focus on a particular subject in nonlinear dynamics that they find interesting. For example, the project could be an analysis of an interesting paper or topic in the current scientific literature. It could also be an attempt to apply what you have learned in the class to a particular problem that interests you. In either case you may find it useful to perform your own theoretical or numerical analyses—indeed we encourage it! Analysis of experimental or observational data—or your own experiments or observations!—is also possible. The format is largely unconstrained, but we require the following:
@@ -18,3 +18,5 @@ Nonlinear dynamics and its applications throughout science and engineering, and 
 If you need ideas, a good way to start could be to search Google Scholar (scholar.google.com) for some keywords of a subject that interests you in addition to the words nonlinear dynamics. Highly cited reviews often provide a good introduction. Though there’s certainly a virtue to focusing on current research, an enormous amount of good work in nonlinear dynamics and chaos, particularly in physical systems, dates to the 1980s and 1990s, and that’s of interest too. 
 
 Finally, we’d be happy to talk to you about this and provide suggestions related to your interests—before you choose your topic or after.
+
+Here are the final project topics:
