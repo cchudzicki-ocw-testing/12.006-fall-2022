@@ -21,7 +21,7 @@ If you need ideas, a good way to start could be to search Google Scholar (schola
 
 Finally, we’d be happy to talk to you about this and provide suggestions related to your interests—before you choose your topic or after.
 
-### Topics
+### Topics submitted in Fall 2022
 
 - Construction of orbits with prescribed trajectories
 - On the utility of non-Newtonian differential equations
