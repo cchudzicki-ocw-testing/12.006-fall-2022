@@ -17,7 +17,7 @@ We strongly advise you to not wait until the last minute to do this. The point o
 
 Nonlinear dynamics and its applications throughout science and engineering, and even social science, is a very active area of research. Although our course focuses on the behavior of simple systems with only a few degrees of freedom, much current research focuses instead on more complex systems with many degrees of freedom (ranging, e.g., from a turbulent fluid to a large social network). Please feel free to explore such problems—and if you do, you will find that the concepts and tools you’ve learned in our class will remain useful. 
 
-If you need ideas, a good way to start could be to search Google Scholar (scholar.google.com) for some keywords of a subject that interests you in addition to the words nonlinear dynamics. Highly cited reviews often provide a good introduction. Though there’s certainly a virtue to focusing on current research, an enormous amount of good work in nonlinear dynamics and chaos, particularly in physical systems, dates to the 1980s and 1990s, and that’s of interest too. 
+If you need ideas, a good way to start could be to search Google Scholar ([scholar.google.com](https://scholar.google.com/)) for some keywords of a subject that interests you in addition to the words "nonlinear dynamics". Highly cited reviews often provide a good introduction. Though there’s certainly a virtue to focusing on current research, an enormous amount of good work in nonlinear dynamics and chaos, particularly in physical systems, dates to the 1980s and 1990s, and that’s of interest too. 
 
 Finally, we’d be happy to talk to you about this and provide suggestions related to your interests—before you choose your topic or after.
 
@@ -47,5 +47,5 @@ Finally, we’d be happy to talk to you about this and provide suggestions relat
 - Pseudorandomness and chaos
 - Nonlinear behavior of transverse vibration in axially loaded beams
 - Exploring ML techniques on prediction of a chaotic system
-- Towards a machine learning inspired method for computing periodic orbits
+- Towards a machine-learning-inspired method for computing periodic orbits
 - Applying the SINDy algorithm to discover dynamical systems models in geophysical dynamics
