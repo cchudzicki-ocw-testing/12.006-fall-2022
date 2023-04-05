@@ -98,13 +98,13 @@ Spectral Analysis for Dynamical Systems (cont.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-Poincare Sections
+Poincaré Sections
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Poincare Sections (cont.)
+Poincaré Sections (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 5 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -140,7 +140,7 @@ Lorenz Equations (cont.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-Henon Attractor
+Hénon Attractor
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 8 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
