@@ -38,8 +38,8 @@ Among the many books on nonlinear dynamics and chaos, you may ﬁnd it interesti
 - Cvitanovic, P., R. Artuso, R. Mainieri, G. Tanner, and G. Vattay. [*Chaos: Classical and Quantum* (PDF - 8.4 MB)](https://chaosbook.org/chapters/ChaosBook.pdf) 
 - Gleick, J. *Chaos*. Viking Books, 1987. ISBN: 9780749386061. (An excellent popular introduction.) 
 - Guckenheimer, J. and P. Holmes, *Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields.* Springer, 1983. ISBN: 9780387908199. (A graduate-level applied mathematics textbook.)
-- Schuster, H. and W. Just. *Deterministic Chaos: An Introduction*, 4th edition. Wiley-VCH, 2005. ISBN: 9783527404155. (An advanced book of interest to physicists.)
-- Turcotte, D. *Fractals and Chaos in Geology and Geophysics*, 2nd edition. Cambridge University Press, New York, 1997. ISBN: 9780521567336.
+- Schuster, H. and W. Just. *Deterministic Chaos: An Introduction*, 4<sup>th</sup> edition. Wiley-VCH, 2005. ISBN: 9783527404155. (An advanced book of interest to physicists.)
+- Turcotte, D. *Fractals and Chaos in Geology and Geophysics*, 2<sup>nd</sup> edition. Cambridge University Press, New York, 1997. ISBN: 9780521567336.
 
 ## Requirements
 
@@ -51,4 +51,4 @@ Students are also required to complete a final project and briefly present their
 
 ## Grading
 
-Problems sets count for about 80% of the grade and the final project about 20%.
+Problem sets count for about 80% of the grade and the final project about 20%.
