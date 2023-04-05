@@ -5,7 +5,7 @@ draft: false
 title: Final Project
 uid: 94d2bce4-3e02-4beb-b6df-7ed84ebc196c
 ---
-### Guidelines
+## Guidelines
 
 The purpose of the final project is to give students an opportunity to focus on a particular subject in nonlinear dynamics that they find interesting. For example, the project could be an analysis of an interesting paper or topic in the current scientific literature. It could also be an attempt to apply what you have learned in the class to a particular problem that interests you. In either case you may find it useful to perform your own theoretical or numerical analyses—indeed we encourage it! Analysis of experimental or observational data—or your own experiments or observations!—is also possible. The format is largely unconstrained, but we require the following:
 
@@ -21,7 +21,7 @@ If you need ideas, a good way to start could be to search Google Scholar (schola
 
 Finally, we’d be happy to talk to you about this and provide suggestions related to your interests—before you choose your topic or after.
 
-### Topics Submitted in Fall 2022
+## Topics Submitted in Fall 2022
 
 - Construction of orbits with prescribed trajectories
 - On the utility of non-Newtonian differential equations
