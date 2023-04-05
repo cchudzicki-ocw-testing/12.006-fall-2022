@@ -19,7 +19,7 @@ uid: 49fddce9-e385-42c8-970c-a23b8a3c3ece
 
 {{% resource_link "f848d883-1e00-4136-bec3-2dde96ff2ba4" "Lectures 12–14: Spectral Analysis for Dynamical Systems (PDF)" %}}
 
-{{% resource_link "6208a383-100b-4e3e-bddc-aa960f0610f4" "Lectures 15–16: Poincare Sections (PDF)" %}}
+{{% resource_link "6208a383-100b-4e3e-bddc-aa960f0610f4" "Lectures 15–16: Poincaré Sections (PDF)" %}}
 
 {{% resource_link "566c50be-a79e-4acd-a0fb-58a46b3350d0" "Lectures 17–18: Fluid Dynamics and Rayleigh-Benard Convection (PDF)" %}}
 
@@ -27,7 +27,7 @@ uid: 49fddce9-e385-42c8-970c-a23b8a3c3ece
 
 {{% resource_link "91d9d986-3b20-4d9f-864c-9873dba4416c" "Lectures 20–21: Lorenz Equations (PDF)" %}}
 
-{{% resource_link "39c7199f-486a-40ac-8892-25c38edf90f9" "Lecture 22: Henon Attractor (PDF)" %}}
+{{% resource_link "39c7199f-486a-40ac-8892-25c38edf90f9" "Lecture 22: Hénon Attractor (PDF)" %}}
 
 {{% resource_link "e0cde2b4-21bc-4726-b87a-27bd429860b1" "Lecture 23: Fractal Dimension (PDF)" %}}
 
