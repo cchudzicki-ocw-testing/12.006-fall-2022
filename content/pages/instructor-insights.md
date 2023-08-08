@@ -52,7 +52,7 @@ Nonlinear systems exhibit much surprising, non-intuitive behavior, so learning h
 
 ### Offered
 
-Once a year, in the spring semester
+Once a year, in the fall semester
 
 ## Assessment and Grading
 
