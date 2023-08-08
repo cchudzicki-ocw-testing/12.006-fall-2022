@@ -3,13 +3,13 @@ leftnav:
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
-- identifier: 9e991fa4-b74f-4b85-8734-2f50060dfa05
-  name: Instructor Insights
-  pageRef: /pages/instructor-insights
-  weight: 20
 - identifier: 89edd4d7-9390-40a8-9365-a6472138b7e6
   name: Calendar
   pageRef: /pages/calendar
+  weight: 20
+- identifier: 9e991fa4-b74f-4b85-8734-2f50060dfa05
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
   weight: 30
 - identifier: 49fddce9-e385-42c8-970c-a23b8a3c3ece
   name: Lecture Notes
